@@ -1,4 +1,4 @@
-# LearnRepo
+# Data-Structures-Algorithms
 These are basic algorithm models written in Python 3.0.
 
 ## What is an Algorithm?
